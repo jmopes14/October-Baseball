@@ -8,10 +8,10 @@ Baseball for Dummies
   <body>
         <header>
       <h1>A Little Information About Baseball</h1>
-      <h2>Jordan Mopas</h2>
+      <h2>What is baseball</h2>
     </header>
-     The <a https://www.dummies.com/sports/baseball/baseball-for-dummies-cheat-sheet/ a> publishing platform
-        was designed mainly for girlfriends who need learn baseball as soon as possible before their boyfriends game. This book will give them the basic knowledge they need to last one whole baseball game.
+    Baseball is america's past time. The art of hitting a ball coming at you at 95 miles per hour is something you can't teach. 
+    
       </p>
     <h2>Jordan Mopas for HPU Sharks</h2>
     <img src="<https://hpusharks.com/roster.aspx?rp_id=2830&path=baseball>">
