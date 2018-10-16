@@ -3,7 +3,6 @@ Baseball for Dummies
 <!DOCTYPE html>
 <html>
   <head>
-    <title>Baseball for Dummies</title>
     <meta charset="utf-8">
   </head>
   <body>
