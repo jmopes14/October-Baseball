@@ -6,8 +6,7 @@
   <body>
         <header>
       <h2>Jordan Mopas</h1>
-      <h3>What is baseball</h2>
-    </header>
+          <h3>What is baseball</h2>
     Baseball is america's past time. The art of hitting a ball coming at you at 95 miles per hour is something you can't teach.
     
   
